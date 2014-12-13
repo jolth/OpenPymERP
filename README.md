@@ -11,7 +11,5 @@ Producción, ventas, compras, logística, contabilidad (de varios tipos), gesti�
 ## Dependencias
 
 Python >= 2.7
-
 Web.py >= 0.37 
-
-SQLite 3 / PostgreSQL
+SQLite3
