@@ -1,8 +1,7 @@
-# Pymerp - ERP para PYMEs
+# OpenPymERP - ERP para PYMEs
 
 Sistemas de planificación de recursos empresariales para PYMES.
-Pymer no requiere la instalación de una aplicación cliente ya que tienen una interfaz Web.
-Módular y configurable.
+PymERP no requiere la instalación de una aplicación cliente ya que tienen una interfaz Web. Módular y configurable.
 
 © 2013 Dev Microsystem S.A.S.
 
